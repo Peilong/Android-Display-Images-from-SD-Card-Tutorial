@@ -9,4 +9,4 @@ Visit our tutorial link @ http://www.androidbegin.com/tutorial/android-display-i
 
 **Screenshot**
 
-![Android Display Images from SD Card Tutorial ScreenShot](http://www.androidbegin.com/wp-content/uploads/2013/04/SDImageTutorial-Screenshot.png)
+![Android Display Images from SD Card Tutorial ScreenShot](http://www.androidbegin.com/wp-content/uploads/2013/04/SD-Image-Tutorial-ScreenShots.png)
